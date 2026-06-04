@@ -1,0 +1,3 @@
+<Solution>
+  <Project Path="HUMEDAD Y TEMPERATURA/HUMEDAD Y TEMPERATURA.csproj" Id="776eda5a-da5c-4b16-ab01-35e042739187" />
+</Solution>
